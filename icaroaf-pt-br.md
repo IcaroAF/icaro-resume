@@ -5,7 +5,7 @@
 - **Github**: https://github.com/IcaroAF
 
 ## Resumo
-Desenvolvedor Web back-end, com experiência em desenvolvimento de aplicações web utilizando NodeJS, Express, PostgreSQL, Git, entre outras tecnologias. Atualmente trabalho numa startup early-stage, onde auxilio o front-end com o desenvolvimento de APIs e integrações com serviços de terceiros. Também possuo conhecimento em Typescript, MongoDB, NestJS entre outras tecnologias.
+Desenvolvedor Web back-end, com experiência em desenvolvimento de aplicações web utilizando NodeJS, Express, PostgreSQL, Git, entre outras tecnologias. Atualmente trabalho numa startup early-stage, onde auxilio o front-end com o desenvolvimento de APIs e integrações com serviços como GCP, Firebase e Gitlab CI/CD. Também possuo conhecimento em Typescript, MongoDB, NestJS entre outras tecnologias.
 
 ## Experiência
 
@@ -13,6 +13,7 @@ Desenvolvedor Web back-end, com experiência em desenvolvimento de aplicações 
 
 - Desenvolvimento e manutenção da API RESTful da Unmaze, utilizando Nodejs, Express e PostgreSQL.
 - Apoio no desenvolvimento do front-end, utilizando React e ChakraUI.
+- Deploy utilizando a ferramenta de CI/CD do Gitlab, Firebase e GCP
 - Criação de automações utilizando o Cron reduzindo a criação de tickets para o CS
 
 ## Educação
