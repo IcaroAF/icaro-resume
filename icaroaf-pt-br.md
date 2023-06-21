@@ -5,7 +5,7 @@
 - **Github**: https://github.com/IcaroAF
 
 ## Resumo
-Desenvolvedor Web back-end, com experiência em desenvolvimento de aplicações web utilizando NodeJS, Express, PostgreSQL, Git, entre outras tecnologias. Atualmente trabalho numa startup early-stage, onde auxilio o front-end com o desenvolvimento de APIs e integrações com serviços como GCP, Firebase e Gitlab CI/CD. Também possuo conhecimento em Typescript, MongoDB, NestJS entre outras tecnologias.
+Desenvolvedor Web back-end, com experiência em desenvolvimento de aplicações web utilizando NodeJS, Express, PostgreSQL, Git, entre outras tecnologias. Atualmente trabalho numa startup early-stage, onde auxilio o front-end com o desenvolvimento de APIs e integrações com serviços como GCP, Firebase e Gitlab CI/CD. Também possuo conhecimento em Typescript, MongoDB, NestJS entre outras tecnologias. Também possuo conhecimento e experiência profissional na área de marketing e comunicação, ajudando-me a ter uma visão mais ampla sobre o desenvolvimento de produtos.
 
 ## Experiência
 
