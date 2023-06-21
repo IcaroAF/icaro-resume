@@ -17,6 +17,14 @@ Web back-end developer, with experience in web application development using Nod
 - Deploy using Gitlab's CI/CD tool, Firebase and GCP
 - Creation of automations using Cron jobs reducing the creation of tickets for CS
 
+**Marketing Assistant** - **Realiza Rent a Car** - *September 2018 - October 2020*
+
+- Creation of marketing campaigns for the company
+- Creation of content for social networks
+- Negotiation with suppliers
+- Creation of campaign performance reports
+- Management of car advertising platforms (OLX, iCarros, Webmotors, etc)
+
 ## Education
 
 **Bachelor of Communication and Marketing** - **Universidade Salvador** - *2015 - 2018*

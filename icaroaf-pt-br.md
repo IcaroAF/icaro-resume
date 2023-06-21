@@ -16,6 +16,14 @@ Desenvolvedor Web back-end, com experiência em desenvolvimento de aplicações 
 - Deploy utilizando a ferramenta de CI/CD do Gitlab, Firebase e GCP
 - Criação de automações utilizando o Cron reduzindo a criação de tickets para o CS
 
+
+**Assistente de Marketing* - **Realiza Rent a Car** - *Setembro 2018 - Outubro 2020*
+
+- Criação de campanhas de marketing para a empresa
+- Criação de conteúdo para as redes sociais
+- Negociação com fornecedores
+- Criação de relatórios de desempenho de campanhas
+- Gestão de plataformas de anúncios de carros (OLX, iCarros, Webmotors, etc)
 ## Educação
 
 **Bacharelado em Comunicação e Marketing** - **Universidade Salvador** - *2015 - 2018*
