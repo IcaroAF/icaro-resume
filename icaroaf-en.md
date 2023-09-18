@@ -6,11 +6,11 @@
 
 ## Summary
 
-Web back-end developer, with experience in web application development using NodeJS, Express, PostgreSQL, Git, among other technologies. Currently I work in an early-stage startup, where I help the front-end with the development of APIs and integrations with services like GCP, Firebase and Gitlab CI/CD. I also have knowledge in Typescript, MongoDB, NestJS among other technologies. I also have knowledge and professional experience in the area of marketing and communication, helping me to have a broader vision about product development.
+Web back-end developer, with experience in web application development using NodeJS, Express, PostgreSQL, Git, among other technologies. Currently I work in an early-stage startup, where I help the front-end with the development of APIs and integrations with services like GCP, Firebase and Gitlab CI/CD. I also have knowledge in Typescript, MongoDB, NestJS, Java among other technologies. I also have knowledge and professional experience in the area of marketing and communication, helping me to have a broader vision about product development.
 
 ## Experience
 
-**Full Stack Web Developer/Back-end Developer** - **Unmaze** - *March 2022 - Present*
+**Full Stack Web Developer/Back-end Developer** - **Unmaze** - *March 2022 - September 2023*
 
 - Development and maintenance of the Unmaze RESTful API, using Nodejs, Express and PostgreSQL.
 - Support in front-end development, using React and ChakraUI.
